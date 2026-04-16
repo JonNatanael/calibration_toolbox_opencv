@@ -1,1 +1,1 @@
-This is a set of scripts for claibrating cameras using OpenCV.
+This is a set of scripts for calibrating cameras using OpenCV.
